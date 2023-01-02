@@ -67,8 +67,8 @@
 
           @include respond(phone) {
             display: inline;
-            margin: 0;
-            padding: 0;
+            margin: 150px;
+            padding: 150px;
             background: transparent;
             font-style: normal;
           }
